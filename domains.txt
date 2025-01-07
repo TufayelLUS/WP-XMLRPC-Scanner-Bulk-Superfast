@@ -1,0 +1,2 @@
+https://example.domain/
+https://www.example2.domain
